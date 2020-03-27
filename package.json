@@ -1,6 +1,6 @@
 {
   "name": "passport-aliyun-ram",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Aliyun ram authentication strategy for Passport.",
   "keywords": [
     "passport",

@@ -1,7 +1,7 @@
 # passport-aliyun-ram
 
 [Passport](https://github.com/jaredhanson/passport) strategy for authenticating
-with [Aliyun](http://www.aliyun.com/) using the OAuth 1.0a API.
+with [Aliyun](http://www.aliyun.com/) using the OAuth 2.0 API.
 
 This module lets you authenticate using Aliyun in your Node.js applications.
 By plugging into Passport, Aliyun authentication can be easily and
